@@ -1,8 +1,14 @@
 The following error occured during the attempt to synchronize naming context
 CN=Configuration,DC=domainname,DC=tld
-from Domain Controller a to Domain Controller B
+from Domain Controller a to Domain Controller b
 :The target name is incorrect.
 
 This operation will not continue
 
 
+The following error occured during the attempt to synchronize naming context
+CN=Configuration,DC=domainname,DC=tld
+from Domain Controller s to Domain Controller a
+Insufficient attributes were given to create an object. This object may not exist because it may have been deleted and already garbage collected.
+
+This operation willnot continue
