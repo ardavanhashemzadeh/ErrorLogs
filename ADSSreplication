@@ -1,0 +1,8 @@
+The following error occured during the attempt to synchronize naming context
+CN=Configuration,DC=domainname,DC=tld
+from Domain Controller a to Domain Controller B
+:The target name is incorrect.
+
+This operation will not continue
+
+
