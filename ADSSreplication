@@ -5,6 +5,18 @@ from Domain Controller a to Domain Controller b
 
 This operation will not continue
 
+Adam (AJ Tek)
+Mace
+Adam (AJ Tek)  Verified Professional
+Feb 3, 2015 at 5:20 PM
+Brand Representative for AJ Tek
+
+Are the primary DNS on each DC set to the other DC'S IP, and then the secondary DNS set to 127.0.0.1?
+
+If not, make that change. This is the way it is supposed to be
+
+
+
 
 The following error occured during the attempt to synchronize naming context
 CN=Configuration,DC=domainname,DC=tld
